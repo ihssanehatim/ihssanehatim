@@ -3,6 +3,16 @@
 
 <a href="https://www.buymeacoffee.com/ihssane" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+<table width="800px">
+<tr>
+
+<td valign="top" width="40%">
+  
+![Ihssane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihssanehatim&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af)
+
+</td>
+
+
 <!--
 **ihssanehatim/ihssanehatim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
