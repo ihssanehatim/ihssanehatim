@@ -1,10 +1,9 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 </div>
-  
-<img src="https://imgur.com/gallery/h0Dqua8" alt="welcome" width="300"/>
 
-  
+ <br/>  
+
 ⚡ Fun fact:  I will write a very amazing introduction about myself here asap
 
 <a href="https://www.buymeacoffee.com/ihssane" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
@@ -33,3 +32,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
+<br/>
+  </br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
