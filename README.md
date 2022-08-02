@@ -1,5 +1,7 @@
 <div align="center">
- <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+ <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br/>
+ Interested in connecting/networking? I'm on clubhouse (@brightshine.io)
+ </h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=ihssanehatim&left_color=green&right_color=red" alt="visitor badge"/>
 </div>
 
@@ -7,9 +9,9 @@
 
 ⚡ Fun fact:  I like to explore new technologies and test them out, find bugs, share my knowledge, develop software solutions and quick hacks.
 - 🔭 I’m currently working on my soft skills
-- 🌱 I’m currently learning Devops tools
-- 👯 I’m looking to collaborate on Rails/Nodejs projects, fun projects, or health oriented ones
-- 📫 How to reach me: find my twitter
+- 🌱 I’m currently learning a little bit of Blockchain stacks
+- 👯 I’m looking to collaborate on Nodejs/Solidity projects, fun projects, or health oriented ones
+- 📫 How to reach me: ihssanehatim@gmail.com
 - 😄 Pronouns: Her, She
 - 🎶 Music I listen to while coding: One piece (remix), Detective Conan (remix), and other famous Programming / Coding / Hacking musics 
 <br>
