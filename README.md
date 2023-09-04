@@ -1,6 +1,5 @@
 <div align="center">
  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br/>
- Interested in connecting/networking? I'm on clubhouse (@brightshine.io)
  </h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=ihssanehatim&left_color=green&right_color=red" alt="visitor badge"/>
 </div>
